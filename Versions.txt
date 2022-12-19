@@ -1,0 +1,6 @@
+﻿* ~ Messer's Service Display Project ~ *
+- Release Notes & Version History Log		[Messer's 1st Vue.js Project]
+- Messer Cutting Systems. Created by Andrew Harkins - 11/2022 
+v0.0.1			11/20/2022	AH
+- Created the Project and Added Vue.js Package to Project
+- Created API to grab files from FileShare and put them into a byte[]
